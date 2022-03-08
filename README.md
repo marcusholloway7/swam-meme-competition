@@ -3,4 +3,4 @@
 
  My submission
  
- ![swam-meme-competition](https://raw.githubusercontent.com/marcusholloway7/swam-meme-competition/main/swam-meme.png)
+ ![swam-meme-competition](https://raw.githubusercontent.com/marcusholloway7/swam-meme-competition/main/meme.png)
